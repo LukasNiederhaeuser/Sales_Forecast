@@ -1,0 +1,6 @@
+README.md
+setup.py
+sales_forecasting.egg-info/PKG-INFO
+sales_forecasting.egg-info/SOURCES.txt
+sales_forecasting.egg-info/dependency_links.txt
+sales_forecasting.egg-info/top_level.txt

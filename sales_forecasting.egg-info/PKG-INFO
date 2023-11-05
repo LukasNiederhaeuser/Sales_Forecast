@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: sales-forecasting
+Version: 0.1.0
+Summary: Perform forecasting using machine learning methods on Walmart sales
+Author: Lukas Niederhäuser
